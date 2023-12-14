@@ -1,2 +1,2 @@
 # MERN_NOTES
-This repository contains the notes for creating a MERN(MongoDB,ExpressJS,ReactJS,NodeJS) Appilication. this repository gets frequent updates with notes and PDF's
+This repository offers instructions for building a MERN (MongoDB,ExpressJS,ReactJS,NodeJS) application. This repository is frequently updated with notes, PDFs, and codes that will be useful in developing a MERN application.
